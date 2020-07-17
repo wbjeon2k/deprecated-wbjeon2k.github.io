@@ -70,9 +70,9 @@ footer_links:
     icon: fab fa-github-square
 
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Noto Serif KR"
     weights: "400,400i,700,700i"
-  - name: "Lora"
+  - name: "Noto Sans KR"
     weights: "400,400i,700,700i"
 
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
