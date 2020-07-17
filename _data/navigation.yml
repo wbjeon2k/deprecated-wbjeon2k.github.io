@@ -1,0 +1,7 @@
+#페이지 상단의 내비게이션 바
+- title: Home
+  url: /
+- title: About
+  url: /about
+- title: GitHub
+  url: https://github.com/wbjeon2k

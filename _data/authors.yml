@@ -1,0 +1,9 @@
+wbjeon2k:
+  name: wbjeon2k
+  #picture: /images/john-doe.jpg
+  github: wbjeon2k
+  links:
+    - title: GitHub
+      url: https://github.com/wbjeon2k
+      icon: fab fa-github-square
+  
