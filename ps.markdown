@@ -1,11 +1,11 @@
 ---
+title:  "Algorithm PS"
 layout: collection
 #layout: collection
-collection: ps
 permalink: /ps/
-title:  "Algorithm PS"
+collection: ps
 #date:   2020-07-16 21:01:35 +0900
-categories: ps
+#categories: ps
 entries_layout: grid
 ---
 

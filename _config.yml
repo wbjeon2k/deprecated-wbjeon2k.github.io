@@ -57,17 +57,22 @@ search_full_content: true
 author:
   name: wbjeon2k
   picture:
-  email: wbjeon2k@gmail.com
   links:
     - title: GitHub
       url: https://github.com/wbjeon2k
       icon: fab fa-github-square
+    - title: Email
+      url: https://mail.naver.com/write/popup?srvid=note&to=wbjeon2k@naver.com
+      icon: fas fa-envelope-square
 
 
 footer_links:
   - title: GitHub
     url: https://github.com/wbjeon2k
     icon: fab fa-github-square
+  - title: Email
+    url: https://mail.naver.com/write/popup?srvid=note&to=wbjeon2k@naver.com
+    icon: fas fa-envelope-square
 
 google_fonts:
   - name: "Noto Serif KR"
@@ -90,6 +95,11 @@ defaults:
     values:
       layout: post
       share: true
+
+collections:
+  ps:
+    output: true
+    permalink: /:collection/:path/
 
 #paginate: true
 #paginate_path: /page:num/
