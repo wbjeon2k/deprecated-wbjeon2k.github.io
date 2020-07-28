@@ -4,5 +4,5 @@
 
 layout: home
 collection: frontpage
-entries_layout: grid
+#entries_layout: grid
 ---

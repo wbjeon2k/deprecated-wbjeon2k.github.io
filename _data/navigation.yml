@@ -5,5 +5,9 @@
   url: /about/
 - title: PS
   url: /ps/
+- title: Category
+  url: /categories/
+- title: Tag
+  url: /tags/
 - title: GitHub
   url: https://github.com/wbjeon2k

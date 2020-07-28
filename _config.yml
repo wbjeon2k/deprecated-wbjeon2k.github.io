@@ -48,8 +48,11 @@ date_format: "%Y-%m-%d"
 read_time: true
 words_per_minute: 200
 
+markdown: kramdown
 mathjax:
   enable: true
+  combo: "tex-mml-chtml"
+  tags: "ams"
 
 search_full_content: true
 
@@ -62,7 +65,7 @@ author:
       url: https://github.com/wbjeon2k
       icon: fab fa-github-square
     - title: Email
-      url: https://mail.naver.com/write/popup?srvid=note&to=wbjeon2k@naver.com
+      url: mailto:wbjeon2k@gmail.com
       icon: fas fa-envelope-square
 
 
@@ -71,7 +74,7 @@ footer_links:
     url: https://github.com/wbjeon2k
     icon: fab fa-github-square
   - title: Email
-    url: https://mail.naver.com/write/popup?srvid=note&to=wbjeon2k@naver.com
+    url: mailto:wbjeon2k@gmail.com
     icon: fas fa-envelope-square
 
 google_fonts:
