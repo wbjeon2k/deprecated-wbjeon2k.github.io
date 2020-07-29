@@ -30,7 +30,7 @@ date: 2020-07-28 23:50 +0900
 
 ## Source Code
 
-[문제링크](https://icpc.me/2473)  
+[문제링크](http://icpc.me/2473)  
 
 - 1st approach (binary search)
 
