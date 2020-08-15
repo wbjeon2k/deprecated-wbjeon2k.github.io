@@ -8,6 +8,8 @@ date: 2020-07-28 23:50 +0900
 
 ## Binary Search, Two Pointer Method
 
+[백준 2473](http://icpc.me/2473)  
+
 첫 번째는 정렬 후 이분탐색, 두 번째는 two pointer method 로 해결.
 
 1. 정렬 후 이분탐색 $O(N^2logN)$
@@ -28,8 +30,6 @@ date: 2020-07-28 23:50 +0900
 [lb-link]: http://www.cplusplus.com/reference/algorithm/lower_bound/
 
 ## Source Code
-
-[문제링크](http://icpc.me/2473)  
 
 - 1st approach (binary search)
 
