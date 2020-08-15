@@ -24,7 +24,7 @@ github_username:  wbjeon2k
 description: #>- # this means to ignore newlines until "baseurl:"
   Welcome to wbjeon2k's blog!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wbjeon2k.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wbjeon2k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 mathjax:
   enable: false
