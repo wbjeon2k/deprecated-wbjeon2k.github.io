@@ -2,7 +2,7 @@
 layout: post
 categories: study
 tags: information
-date: 2021-09-06 20:00 +0900
+date: 2021-09-06 01:00 +0900
 title: "MIT OCW 알고리즘 강의 추천"
 ---
 
