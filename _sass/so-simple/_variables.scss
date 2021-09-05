@@ -3,17 +3,23 @@
    ========================================================================== */
 
 /* Breakpoint widths */
+/*
 $small: 320px !default;
 $medium: 768px !default;
 $large: 1024px !default;
 $xlarge: 1280px !default;
+*/
+$small: 360px !default;
+$medium: 720px !default;
+$large: 1080px !default;
+$xlarge: 1280px !default;
 
 /* Fluid type */
-$base-font-size: 16px !default;
+$base-font-size: 13px !default;
 $min-vw: $small !default;
 $max-vw: $xlarge !default;
-$min-font-size: 14px !default;
-$max-font-size: 18px !default;
+$min-font-size: 10px !default;
+$max-font-size: 16px !default;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
@@ -98,11 +104,11 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* Max-width of the main content */
-$main-max-width: $medium !default;
-
+//$main-max-width: $medium !default;
+$main-max-width: $large;
 /* Max-width of the main content + sidebar */
-$main-sidebar-max-width: $large !default;
-
+//$main-sidebar-max-width: $large !default;
+$main-sidebar-max-width: $xlarge;
 /* Site logo */
 $site-logo-width: 75px !default;
 $site-logo-height: 75px !default;

@@ -1,7 +1,6 @@
 ---
 layout: post
-categories: study
-tags: information
+categories: ps
 date: 2021-09-06 01:00 +0900
 title: "MIT OCW 알고리즘 강의 추천"
 ---
@@ -17,12 +16,12 @@ MIT OCW 에 있는 알고리즘 강의들이 어떤 것들이 있는지 소개�
 
 ### MIT 알고리즘 강의 구성
 
-**소개 드리는 강의들은 모두 YouTube에 녹화 강의 + 재생 목록이 있습니다!**
-[6.006](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb), [6.046j](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) 참조 바랍니다.
+**소개 드리는 강의들은 모두 YouTube에 녹화 강의 + 재생 목록이 있습니다!**  
+[6.006](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb), [6.046j](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) 참조 바랍니다.  
 
 MIT에서 학부생들을 대상으로 열리는 알고리즘 강의는 총 두 가지가 있습니다.  
-첫 번째 강의는 Introduction to Algorithms, 강의 번호는 [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 입니다.  
-두 번째 강의는 Design and Analysis of Algorithms, 강의 번호는 [6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/) 입니다.  
+첫 번째 강의는 **Introduction to Algorithms**, 강의 번호는 [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 입니다.  
+두 번째 강의는 **Design and Analysis of Algorithms**, 강의 번호는 [6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/) 입니다.  
 두 과목 모두 제목이 기므로, 아래에서는 과목 번호로 지칭하겠습니다.  
 
 *tmi: MIT EECS 강의들은 6.xyz 로 시작합니다. MIT OCW 이용시 참고 바랍니다.*  
@@ -65,7 +64,7 @@ UNIST 뿐만 아니라, 많은 일반적인 학교들의 알고리즘 강의는 
 Erik Demaine 교수는 어떤 주제를 다른 주제와 즉흥적으로 연결시키는 것을 좋아합니다.  
 그리고 즉흥적으로 툭툭 던지는 멘트들 사이에서 저 같은 일반인들은 쉽게 떠올리기 힘든 개념들을 주워갈 수 있습니다.  
 
-가장 대표적으로 이런 장점이 드러나는 부분은 DP 파트 입니다.  
+가장 대표적으로 장점이 드러나는 부분은 DP 파트 입니다.  
 DP 개념을 설명하면서 그림을 그리더니, 갑자기 DP는 DAG 에서의 최단거리를 구하는 문제와 같다는 것을 보여줍니다.  
 너무 자연스럽게 설명을 하더니, 자기도 방금 처음 생각해봤다는 놀라운(?) 고백을 합니다.  
 저는 DP 를 처음 배웠을 때, memoization에 현혹되어서 그래프와 DP를 연결지어 생각하지 못했고, 꽤 오랜 시간이 지나서야 알게 되었습니다.  
