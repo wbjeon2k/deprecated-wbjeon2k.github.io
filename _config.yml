@@ -33,7 +33,7 @@ mathjax:
 logo: images/profile.jpg # path of site logo, e.g. "/images/logo.png"
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
 #https://github.com/mmistakes/so-simple-theme
 #twitter_username: jekyllrb
 skin: "/assets/css/skins/default.css"
