@@ -6,17 +6,33 @@ permalink: /about/
 
 ## 전웅배, Woongbae "Brian" Jeon.
 
-[UNIST][UNIST-link] 컴퓨터공학과 3학년 재학중인 학생입니다.
+[UNIST][UNIST-link] 컴퓨터공학과 4학년 재학중인 학생입니다.  
 
-Algorithm PS 와 Machine Learning 등을 공부하고 있습니다.
+ML/AI, Algorithm PS 등에 관심이 있습니다.  
 
-I am a junior student at [UNIST][UNIST-link].
+ML/AI 중에서는 **Continual Learning, Meta Learning, Contrastive Learning** 등에 관심이 있습니다.  
 
-I am currently interested in Algorithm PS and Machine Learning.
+현재 [UNIST AIGS](https://aigs.unist.ac.kr/web/index.php) 에 소속된 윤성환 교수님의 [MIIL](https://sites.google.com/view/swyoon89) 연구실에서 장기적으로 인턴십을 수행하고 있습니다.  
 
-Email: wbjeon2k@gmail.com OR wbjeon2k@naver.com
+I am a senior student at [UNIST][UNIST-link] CSE department.  
+
+I am currently interested in ML/AI and Algorithm PS.  
+
+I am especially interested in **Continual Learning, Meta Learning, Contrastive Learning** among all ML/AI topics.  
+
+I am currently working as an intern at UNIST [MIIL](https://sites.google.com/view/swyoon89) under Prof.SungWhan Yoon.
+
+Email: woongbae@unist.ac.kr
 
 [UNIST-link]: https://unist.ac.kr
+
+### Continual Learning, Meta Learning, Contrastive Learning
+
+현재 기준으로 많이 사용되는 Deep Learning 의 한계점을 뛰어넘는 새로운 방법에 관심을 가지고 공부하고 있습니다.  
+
+Catastrophic forgetting 을 방지하는 continual learning,  
+faster task-adaptaion 을 위한 meta learning 과 few-shot learning,  
+continual/meta learning 이 가능한 self-supervised learning 을 위한 contrastive learning 을 공부하고 있습니다.  
 
 
 ### Algorithm PS?
@@ -53,8 +69,3 @@ Algorithm PS 를 공부하는 이유는 두 가지가 있습니다.
     PS 는 아이디어 뿐만 아니라 코드의 정확성도 같이 요구합니다.
 
     꾸준한 문제 해결 연습을 통해 정확하게 코드를 짜는것이 목표입니다.
-
-
-### Machine Learning?
-
-ML에 관한 내용은 추후 업데이트 예정입니다.

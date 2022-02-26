@@ -30,7 +30,7 @@ mathjax:
   enable: false
   #combo: "tex-svg"
   #tags: "ams"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: images/profile.jpg # path of site logo, e.g. "/images/logo.png"
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 theme: jekyll-theme-so-simple
@@ -57,7 +57,7 @@ search_full_content: true
 
 author:
   name: wbjeon2k
-  picture:
+  picture: images/profile.jpg
   links:
     - title: GitHub
       url: https://github.com/wbjeon2k
