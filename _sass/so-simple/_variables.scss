@@ -15,11 +15,11 @@ $large: 1080px !default;
 $xlarge: 1360px !default;
 
 /* Fluid type */
-$base-font-size: 12px !default;
+$base-font-size: 14px !default;
 $min-vw: $small !default;
 $max-vw: $xlarge !default;
 $min-font-size: 10px !default;
-$max-font-size: 16px !default;
+$max-font-size: 18px !default;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
@@ -60,8 +60,8 @@ $page-title-weight: bold !default;
 $entry-title-weight: bold !default;
 */
 
-$serif-font-family: "Noto Serif KR", serif !default;
-$sans-serif-font-family: "Noto Sans KR", sans-serif !default;
+$serif-font-family: "Noto Serif KR Medium", serif !default;
+$sans-serif-font-family: "Noto Sans KR Medium", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
 $base-font-family: $sans-serif-font-family !default;
